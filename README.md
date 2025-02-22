@@ -1,4 +1,4 @@
-# 👋 Welcome to My AI & Strategy Hub
+# 👋 Welcome to My Recursive Intelligence Hub
 
 🚀 **About Me:**  
 - AI Researcher & Strategist  
@@ -10,7 +10,7 @@
 - 🤖 AI-Powered Thought Experiment Frameworks  
 - 🔬 Homotopy Type Theory & Intelligence  
 
-📫 **Let's Connect!**  
-- 🌐 [Kaggle Profile](https://www.kaggle.com/wizzardx)  
-- 🐦 [Twitter/X](https://x.com/wizzardx4))  
-- 💡 [Homepage](https://davidpurdy.ar-ciel.org/)  
+🌐 **Find Me Elsewhere:**  
+- 🌍 [My Central Hub](https://davidpurdy.ar-ciel.org/)  
+- 🔗 [GitHub](https://github.com/wizzardx)  
+- 📊 [Kaggle](https://www.kaggle.com/wizzardx)  
